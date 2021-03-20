@@ -34,5 +34,6 @@ public class CheckThisOut {
             i++;
         }
         System.out.println("Массив, включающий целые числа, найденные в исходной строке: " + Arrays.toString(arrayOfMatches));
+        System.out.println("All done!");
     }
 }
